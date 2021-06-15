@@ -5,6 +5,7 @@ implementing multiple Loading Spinners Made with CSS and HTML only
 - Auther : Fadi Nouh
 - URL : https://bluebits.dev
 - Repository: https://github.com/bluebits-academy/loading-spinners
+- Explanation video: https://www.youtube.com/watch?v=RuuqIXyznRQ
 
 
 
